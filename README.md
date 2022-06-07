@@ -18,3 +18,14 @@ Problems | Solutions
 [Best time to buy and sell Stocks](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_BestTimeToBuyAndSellStocks](./Day_02_BestTimeToBuyAndSellStocks.java)
 [Rotate Matrix](https://www.codingninjas.com/codestudio/problems/rotate-matrix_981260?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_RotateMatrix](./Day_02_RotateMatrix.java)
 [Merge Intervals](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_MergeIntervals](./Day_02_MergeIntervals.java)
+
+
+
+### Day 03
+
+Problems | Solutions
+------------- | -------------
+[Merge Two Sorted Array](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_03_MergeTwoSortedArray](./Day_03_MergeTwoSortedArray.java)
+[Duplicate number in Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_03_DuplicateNumber](./Day_03_DuplicateNumber.java)
+[Missing and Repeating Number](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_873366?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_03_MissingAndRepeating](./Day_03_MissingAndRepeating.java)
+[Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615?topList=striver-sde-sheet-problems) | [Day_03_CountInversions](./Day_03_CountInversions.java)

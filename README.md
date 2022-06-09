@@ -39,3 +39,10 @@ Problems | Solutions
 [Modular Exponentiation](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_ModularExponentiation](./Day_04_ModularExponentiation.java)
 [Majority Element](https://www.codingninjas.com/codestudio/problems/majority-element_842495?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_MajorityElement](./Day_04_MajorityElement.java)
 [Majority Element 2](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_MajorityElement2](./Day_04_MajorityElement2.java)
+
+
+### Day 05
+
+Problems | Solutions
+------------- | -------------
+[Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_UniquePaths](./Day_05_UniquePaths.java)

@@ -46,3 +46,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_UniquePaths](./Day_05_UniquePaths.java)
+[Reverse Pairs](https://www.codingninjas.com/codestudio/problems/reverse-pairs_1112652?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_ReversePairs](./Day_05_ReversePairs.java)

@@ -55,3 +55,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [4 Sum](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_983605?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_06_4Sum](./Day_06_4Sum.java)
+[Longest Consecutive Sequence](codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestConsecutiveSequence](./Day_06_LongestConsecutiveSequence.java)

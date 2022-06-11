@@ -64,3 +64,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [Count Subarrays With Given Xor](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_07_CountSubarraysWithGivenXor](./Solutions/Day_07_CountSubarraysWithGivenXor.java)
+[Longest Substr Without Repeating Char](https://www.codingninjas.com/codestudio/problems/630418?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Day_07_LongestSubstrWithoutRepeatingChar](./Solutions/Day_07_LongestSubstrWithoutRepeatingChar.java)

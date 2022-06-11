@@ -57,3 +57,10 @@ Problems | Solutions
 [4 Sum](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_983605?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_06_4Sum](./Solutions/Day_06_4Sum.java)
 [Longest Consecutive Sequence](codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestConsecutiveSequence](./Solutions/Day_06_LongestConsecutiveSequence.java)
 [Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subset-zero-sum_920321?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestSubarrayZeroSum](./Solutions/Day_06_LongestSubarrayZeroSum.java)
+
+
+### Day 07
+
+Problems | Solutions
+------------- | -------------
+[Count Subarrays With Given Xor](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_07_CountSubarraysWithGivenXor](./Solutions/Day_07_CountSubarraysWithGivenXor.java)

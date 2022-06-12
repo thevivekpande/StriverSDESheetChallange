@@ -74,3 +74,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [Merge Two Sorted LinkedList](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_800332?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_08_MergeTwoSortedLinkedList](./Solutions/Day_08_MergeTwoSortedLinkedList.java)
+[Delete Kth Node From End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteKthNodeFromEnd](./Solutions/Day_08_DeleteKthNodeFromEnd.java)

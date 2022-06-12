@@ -69,7 +69,7 @@ Problems | Solutions
 [Middle Of LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_07_MiddleOfLinkedList](./Solutions/Day_07_MiddleOfLinkedList.java)
 
 
-### Day 07
+### Day 08
 
 Problems | Solutions
 ------------- | -------------

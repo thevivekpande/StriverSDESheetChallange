@@ -77,3 +77,9 @@ Problems | Solutions
 [Delete Kth Node From End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteKthNodeFromEnd](./Solutions/Day_08_DeleteKthNodeFromEnd.java)
 [Add Two Numbers As LinkedLists](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_1170520?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_AddTwoNumbersAsLinkedLists](./Solutions/Day_08_AddTwoNumbersAsLinkedLists.java)
 [Delete Node Of A Linkedlist](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_1105578?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteNodeOfALinkedlist](./Solutions/Day_08_DeleteNodeOfALinkedlist.java)
+
+### Day 09
+
+Problems | Solutions
+------------- | -------------
+[Intersection Of Two LinkedList](https://www.codingninjas.com/codestudio/problems/intersection-of-linked-list_630457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_09_IntersectionOfTwoLinkedList](./Solutions/Day_09_IntersectionOfTwoLinkedList.java)

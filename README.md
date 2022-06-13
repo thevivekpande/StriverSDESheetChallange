@@ -83,3 +83,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [Intersection Of Two LinkedList](https://www.codingninjas.com/codestudio/problems/intersection-of-linked-list_630457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_09_IntersectionOfTwoLinkedList](./Solutions/Day_09_IntersectionOfTwoLinkedList.java)
+[Cycle Detection In Singly LinkedList](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_628974?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_CycleDetectionInSinglyLinkedList](./Solutions/Day_09_CycleDetectionInSinglyLinkedList.java)

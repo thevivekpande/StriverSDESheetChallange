@@ -30,11 +30,9 @@ public class Solution
             slow=slow.next;
             fast=fast.next.next;
             if(slow==fast){
-                int res=0;
                 while(slow!=start){
                     slow=slow.next;
                     start=start.next;
-                    res++;
                 }
                 return slow;
             }

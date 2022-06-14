@@ -93,3 +93,4 @@ Problems | Solutions
 ------------- | -------------
 [Palindrome LinkedList](https://www.codingninjas.com/codestudio/problems/palindrom-linked-list_799352?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_PalindromeLinkedList](./Solutions/Day_10_PalindromeLinkedList.java)
 [LinkedList Cycle 2](https://www.codingninjas.com/codestudio/problems/detect-the-first-node-of-the-loop_1112628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_LinkedListCycle2](./Solutions/Day_10_LinkedListCycle2.java)
+[Flatten A LinkedList](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_10_FlattenALinkedList](./Solutions/Day_10_FlattenALinkedList.java)

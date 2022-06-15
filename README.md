@@ -96,3 +96,10 @@ Problems | Solutions
 [Flatten A LinkedList](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_10_FlattenALinkedList](./Solutions/Day_10_FlattenALinkedList.java)
 [Rotate LinkedList](https://www.codingninjas.com/codestudio/problems/rotate-linked-list_920454?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_10_RotateLinkedList.java](./Solutions/Day_10_RotateLinkedList.java)
 [Clone LinkedList With Random Pointer](https://www.codingninjas.com/codestudio/problems/clone-linked-list-with-random-pointer_873376?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_10_CloneLinkedListWithRandomPointer](./Solutions/Day_10_CloneLinkedListWithRandomPointer.java)
+
+
+### Day 11
+
+Problems | Solutions
+------------- | -------------
+(3 Sum)[https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0]|(Day_11_3sum)[./Solutions/Day_11_3sum.java]

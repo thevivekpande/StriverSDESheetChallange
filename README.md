@@ -102,4 +102,4 @@ Problems | Solutions
 
 Problems | Solutions
 ------------- | -------------
-(3 Sum)[https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0]|(Day_11_3sum)[./Solutions/Day_11_3sum.java]
+[3 Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0)|(Day_11_3sum)[./Solutions/Day_11_3sum.java]

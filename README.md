@@ -105,3 +105,4 @@ Problems | Solutions
 [3 Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_11_3sum](./Solutions/Day_11_3sum.java)
 [Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rainwater_630519?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_TrappingRainWater](./Solutions/Day_11_TrappingRainWater.java)
 [Remove Duplicates From Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_1102307?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_RemoveDuplicatesFromSortedArray](./Solutions/Day_11_RemoveDuplicatesFromSortedArray.java)
+[Maximum Consecutive Ones](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_892994?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumConsecutiveOnes](./Solutions/Day_11_MaximumConsecutiveOnes.java)

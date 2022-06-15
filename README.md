@@ -103,3 +103,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [3 Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_11_3sum](./Solutions/Day_11_3sum.java)
+[Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rainwater_630519?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_TrappingRainWater](./Solutions/Day_11_TrappingRainWater.java)

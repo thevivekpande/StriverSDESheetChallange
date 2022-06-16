@@ -117,3 +117,4 @@ Problems | Solutions
 [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_975286?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_FractionalKnapsack](./Solutions/Day_12_FractionalKnapsack.java)
 [Minimum Number of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_975277?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_MinimumNumberOfCoins](./Solutions/Day_12_MinimumNumberOfCoins.java)
 [Maximum Activities](https://www.codingninjas.com/codestudio/problems/maximum-activities_1062712?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_MaximumActivities](./Solutions/Day_12_MaximumActivities.java)
+[Subset Sum](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_SubsetSum](./Solutions/Day_12_SubsetSum.java)

@@ -115,3 +115,4 @@ Problems | Solutions
 ------------- | -------------
 [Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_JobSequencingProblem](./Solutions/Day_12_JobSequencingProblem.java)
 [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_975286?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_FractionalKnapsack](./Solutions/Day_12_FractionalKnapsack.java)
+[Minimum Number of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_975277?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_MinimumNumberOfCoins](./Solutions/Day_12_MinimumNumberOfCoins.java)

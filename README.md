@@ -119,3 +119,4 @@ Problems | Solutions
 [Maximum Activities](https://www.codingninjas.com/codestudio/problems/maximum-activities_1062712?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_MaximumActivities](./Solutions/Day_12_MaximumActivities.java)
 [Subset Sum](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_SubsetSum](./Solutions/Day_12_SubsetSum.java)
 [Subset II](https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_SubsetII](./Solutions/Day_12_SubsetII.java)
+[Subset Sum Equal To K](https://www.codingninjas.com/codestudio/problems/return-subsets-sum-to-k_759331?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_SubsetSumEqualToK](./Solutions/Day_12_SubsetSumEqualToK.java)

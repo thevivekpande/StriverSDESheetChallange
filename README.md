@@ -108,3 +108,9 @@ Problems | Solutions
 [Maximum Consecutive Ones](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_892994?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumConsecutiveOnes](./Solutions/Day_11_MaximumConsecutiveOnes.java)
 [Maximum Meetings In A Room](https://www.codingninjas.com/codestudio/problems/maximum-meetings_1062658?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumMeetingsInARoom](./Solutions/Day_11_MaximumMeetingsInARoom.java)
 [Minimum Number Of Platforms](https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_799400?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MinimumNumberOfPlatforms](./Solutions/Day_11_MinimumNumberOfPlatforms.java)
+
+### Day 12
+
+Problems | Solutions
+------------- | -------------
+[Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_JobSequencingProblem](./Solutions/Day_12_JobSequencingProblem.java)

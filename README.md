@@ -128,3 +128,4 @@ Problems | Solutions
 ------------- | -------------
 [Combination Sum II](https://www.codingninjas.com/codestudio/problems/combination-sum-ii_1112622?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_CombinationSumII](./Solutions/Day_13_CombinationSumII.java)
 [Palindromic Substring](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_799931?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PalindromicSubstring](./Solutions/Day_13_PalindromicSubstring.java)
+[Kth Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_1112626?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_KthPermutationSequence](./Solutions/Day_13_KthPermutationSequence.java)

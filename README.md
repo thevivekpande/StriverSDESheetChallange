@@ -149,3 +149,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [Matrix Median](https://www.codingninjas.com/codestudio/problems/matrix-median_873378?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_MatrixMedian](./Solutions/Day_15_MatrixMedian.java)
+[Single Element In A Sorted Array](https://www.codingninjas.com/codestudio/problems/unique-element-in-sorted-array_1112654?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_SingleElementInASortedArray](./Solutions/Day_15_SingleElementInASortedArray.java)

@@ -137,4 +137,4 @@ Problems | Solutions
 
 Problems | Solutions
 ------------- | -------------
-[Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SodokuSolver.java)
+[Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SudokuSolver.java)

@@ -138,3 +138,4 @@ Problems | Solutions
 Problems | Solutions
 ------------- | -------------
 [Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SudokuSolver.java)
+[M Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_981273?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_14_MColoringProblem](./Solutions/Day_14_MColoringProblem.java)

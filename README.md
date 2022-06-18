@@ -131,3 +131,10 @@ Problems | Solutions
 [Kth Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_1112626?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_KthPermutationSequence](./Solutions/Day_13_KthPermutationSequence.java)
 [Print Permutations String](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PrintPermutationsString](./Solutions/Day_13_PrintPermutationsString.java)
 [N Queens](https://www.codingninjas.com/codestudio/problems/n-queens_759332?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_NQueens](./Solutions/Day_13_NQueens.java)
+
+
+### Day 14
+
+Problems | Solutions
+------------- | -------------
+[Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SodukoSolver.java)

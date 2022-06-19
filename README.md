@@ -92,46 +92,46 @@ Sr. No. | Topics | Problems | Solutions
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Palindrome LinkedList](https://www.codingninjas.com/codestudio/problems/palindrom-linked-list_799352?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_PalindromeLinkedList](./Solutions/Day_10_PalindromeLinkedList.java)
-[LinkedList Cycle 2](https://www.codingninjas.com/codestudio/problems/detect-the-first-node-of-the-loop_1112628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_LinkedListCycle2](./Solutions/Day_10_LinkedListCycle2.java)
-[Flatten A LinkedList](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_10_FlattenALinkedList](./Solutions/Day_10_FlattenALinkedList.java)
-[Rotate LinkedList](https://www.codingninjas.com/codestudio/problems/rotate-linked-list_920454?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_10_RotateLinkedList.java](./Solutions/Day_10_RotateLinkedList.java)
-[Clone LinkedList With Random Pointer](https://www.codingninjas.com/codestudio/problems/clone-linked-list-with-random-pointer_873376?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_10_CloneLinkedListWithRandomPointer](./Solutions/Day_10_CloneLinkedListWithRandomPointer.java)
+034| Linked List |[Palindrome LinkedList](https://www.codingninjas.com/codestudio/problems/palindrom-linked-list_799352?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_PalindromeLinkedList](./Solutions/Day_10_PalindromeLinkedList.java)
+035| Linked List |[LinkedList Cycle 2](https://www.codingninjas.com/codestudio/problems/detect-the-first-node-of-the-loop_1112628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_LinkedListCycle2](./Solutions/Day_10_LinkedListCycle2.java)
+036| Linked List |[Flatten A LinkedList](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_10_FlattenALinkedList](./Solutions/Day_10_FlattenALinkedList.java)
+037| Linked List |[Rotate LinkedList](https://www.codingninjas.com/codestudio/problems/rotate-linked-list_920454?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_10_RotateLinkedList.java](./Solutions/Day_10_RotateLinkedList.java)
+038| Linked List |[Clone LinkedList With Random Pointer](https://www.codingninjas.com/codestudio/problems/clone-linked-list-with-random-pointer_873376?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_10_CloneLinkedListWithRandomPointer](./Solutions/Day_10_CloneLinkedListWithRandomPointer.java)
 
 
 ### Day 11
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[3 Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_11_3sum](./Solutions/Day_11_3sum.java)
-[Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rainwater_630519?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_TrappingRainWater](./Solutions/Day_11_TrappingRainWater.java)
-[Remove Duplicates From Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_1102307?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_RemoveDuplicatesFromSortedArray](./Solutions/Day_11_RemoveDuplicatesFromSortedArray.java)
-[Maximum Consecutive Ones](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_892994?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumConsecutiveOnes](./Solutions/Day_11_MaximumConsecutiveOnes.java)
-[Maximum Meetings In A Room](https://www.codingninjas.com/codestudio/problems/maximum-meetings_1062658?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumMeetingsInARoom](./Solutions/Day_11_MaximumMeetingsInARoom.java)
-[Minimum Number Of Platforms](https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_799400?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MinimumNumberOfPlatforms](./Solutions/Day_11_MinimumNumberOfPlatforms.java)
+039| 2 Pointer |[3 Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_11_3sum](./Solutions/Day_11_3sum.java)
+040| 2 Pointer |[Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rainwater_630519?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_TrappingRainWater](./Solutions/Day_11_TrappingRainWater.java)
+041| 2 Pointer |[Remove Duplicates From Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_1102307?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_RemoveDuplicatesFromSortedArray](./Solutions/Day_11_RemoveDuplicatesFromSortedArray.java)
+042| 2 Pointer |[Maximum Consecutive Ones](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_892994?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumConsecutiveOnes](./Solutions/Day_11_MaximumConsecutiveOnes.java)
+043| Greedy Algorithms |[Maximum Meetings In A Room](https://www.codingninjas.com/codestudio/problems/maximum-meetings_1062658?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MaximumMeetingsInARoom](./Solutions/Day_11_MaximumMeetingsInARoom.java)
+043| Greedy Algorithms |[Minimum Number Of Platforms](https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_799400?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_MinimumNumberOfPlatforms](./Solutions/Day_11_MinimumNumberOfPlatforms.java)
 
 ### Day 12
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_JobSequencingProblem](./Solutions/Day_12_JobSequencingProblem.java)
-[Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_975286?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_FractionalKnapsack](./Solutions/Day_12_FractionalKnapsack.java)
-[Minimum Number of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_975277?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_MinimumNumberOfCoins](./Solutions/Day_12_MinimumNumberOfCoins.java)
-[Maximum Activities](https://www.codingninjas.com/codestudio/problems/maximum-activities_1062712?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_MaximumActivities](./Solutions/Day_12_MaximumActivities.java)
-[Subset Sum](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_SubsetSum](./Solutions/Day_12_SubsetSum.java)
-[Subset II](https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_SubsetII](./Solutions/Day_12_SubsetII.java)
-[Subset Sum Equal To K](https://www.codingninjas.com/codestudio/problems/return-subsets-sum-to-k_759331?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_SubsetSumEqualToK](./Solutions/Day_12_SubsetSumEqualToK.java)
+044| Greedy Algorithms | [Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_JobSequencingProblem](./Solutions/Day_12_JobSequencingProblem.java)
+045| Greedy Algorithms |[Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_975286?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_FractionalKnapsack](./Solutions/Day_12_FractionalKnapsack.java)
+046| Greedy Algorithms |[Minimum Number of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_975277?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_MinimumNumberOfCoins](./Solutions/Day_12_MinimumNumberOfCoins.java)
+047| Greedy Algorithms |[Maximum Activities](https://www.codingninjas.com/codestudio/problems/maximum-activities_1062712?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_MaximumActivities](./Solutions/Day_12_MaximumActivities.java)
+048| Recursion & BackTracking |[Subset Sum](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_SubsetSum](./Solutions/Day_12_SubsetSum.java)
+049| Recursion & BackTracking |[Subset II](https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_SubsetII](./Solutions/Day_12_SubsetII.java)
+050| Recursion & BackTracking |[Subset Sum Equal To K](https://www.codingninjas.com/codestudio/problems/return-subsets-sum-to-k_759331?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_SubsetSumEqualToK](./Solutions/Day_12_SubsetSumEqualToK.java)
 
 
 ### Day 13
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Combination Sum II](https://www.codingninjas.com/codestudio/problems/combination-sum-ii_1112622?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_CombinationSumII](./Solutions/Day_13_CombinationSumII.java)
-[Palindromic Substring](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_799931?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PalindromicSubstring](./Solutions/Day_13_PalindromicSubstring.java)
-[Kth Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_1112626?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_KthPermutationSequence](./Solutions/Day_13_KthPermutationSequence.java)
-[Print Permutations String](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PrintPermutationsString](./Solutions/Day_13_PrintPermutationsString.java)
-[N Queens](https://www.codingninjas.com/codestudio/problems/n-queens_759332?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_NQueens](./Solutions/Day_13_NQueens.java)
+051| Recursion & BackTracking |[Combination Sum II](https://www.codingninjas.com/codestudio/problems/combination-sum-ii_1112622?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_CombinationSumII](./Solutions/Day_13_CombinationSumII.java)
+052| Recursion & BackTracking |[Palindromic Substring](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_799931?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PalindromicSubstring](./Solutions/Day_13_PalindromicSubstring.java)
+053| Recursion & BackTracking |[Kth Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_1112626?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_KthPermutationSequence](./Solutions/Day_13_KthPermutationSequence.java)
+054| Recursion & BackTracking |[Print Permutations String](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PrintPermutationsString](./Solutions/Day_13_PrintPermutationsString.java)
+055| Recursion & BackTracking |[N Queens](https://www.codingninjas.com/codestudio/problems/n-queens_759332?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_NQueens](./Solutions/Day_13_NQueens.java)
 
 
 ### Day 14
@@ -139,21 +139,21 @@ Sr. No. | Topics | Problems | Solutions
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SudokuSolver.java)
-[M Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_981273?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_14_MColoringProblem](./Solutions/Day_14_MColoringProblem.java)
-[Rat In a Maze All Paths](https://www.codingninjas.com/codestudio/problems/rat-in-a-maze-all-paths_758966?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_RatInAMazeAllPaths](./Solutions/Day_14_RatInAMazeAllPaths.java)
-[Word Break 2](https://www.codingninjas.com/codestudio/problems/word-break-ii_983635?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_WordBreak2](./Solutions/Day_14_WordBreak2.java)
-[Nth Root of M](https://www.codingninjas.com/codestudio/problems/nth-root-of-m_1062679?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Day_14_NthRootOfM](./Solutions/Day_14_NthRootOfM.java)
+055| Recursion & BackTracking |[Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SudokuSolver.java)
+056| Recursion & BackTracking |[M Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_981273?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_14_MColoringProblem](./Solutions/Day_14_MColoringProblem.java)
+057| Recursion & BackTracking |[Rat In a Maze All Paths](https://www.codingninjas.com/codestudio/problems/rat-in-a-maze-all-paths_758966?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_RatInAMazeAllPaths](./Solutions/Day_14_RatInAMazeAllPaths.java)
+058| Recursion & BackTracking |[Word Break 2](https://www.codingninjas.com/codestudio/problems/word-break-ii_983635?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_WordBreak2](./Solutions/Day_14_WordBreak2.java)
+059| Binary Search |[Nth Root of M](https://www.codingninjas.com/codestudio/problems/nth-root-of-m_1062679?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Day_14_NthRootOfM](./Solutions/Day_14_NthRootOfM.java)
 
 
 ### Day 15
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Matrix Median](https://www.codingninjas.com/codestudio/problems/matrix-median_873378?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_MatrixMedian](./Solutions/Day_15_MatrixMedian.java)
-[Single Element In A Sorted Array](https://www.codingninjas.com/codestudio/problems/unique-element-in-sorted-array_1112654?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_SingleElementInASortedArray](./Solutions/Day_15_SingleElementInASortedArray.java)
-[Search in a Rotated Sorted Array](https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_630450?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_SearchInARotatedSortedArray](./Solutions/Day_15_SearchInARotatedSortedArray.java)
-[Median of Two Sorted Array](https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_985294?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_MedianOfTwoSortedArray](./Solutions/Day_15_MedianOfTwoSortedArray.java)
-[Kth Element Of Two Sorted Array](https://www.codingninjas.com/codestudio/problems/ninja-and-ladoos_1112629?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_KthElementOfTwoSortedArray](./Solutions/Day_15_KthElementOfTwoSortedArray.java)
-[Book Allocation Problem](https://www.codingninjas.com/codestudio/problems/ayush-gives-ninjatest_1097574?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_BookAllocationProblem](./Solutions/Day_15_BookAllocationProblem.java)
-[Aggressive Cows](https://www.codingninjas.com/codestudio/problems/chess-tournament_981299?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_AggressiveCows.java](./Solutions/Day_15_AggressiveCows.java)
+060| Binary Search |[Matrix Median](https://www.codingninjas.com/codestudio/problems/matrix-median_873378?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_MatrixMedian](./Solutions/Day_15_MatrixMedian.java)
+061| Binary Search |[Single Element In A Sorted Array](https://www.codingninjas.com/codestudio/problems/unique-element-in-sorted-array_1112654?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_SingleElementInASortedArray](./Solutions/Day_15_SingleElementInASortedArray.java)
+062| Binary Search |[Search in a Rotated Sorted Array](https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_630450?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_SearchInARotatedSortedArray](./Solutions/Day_15_SearchInARotatedSortedArray.java)
+063| Binary Search |[Median of Two Sorted Array](https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_985294?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_MedianOfTwoSortedArray](./Solutions/Day_15_MedianOfTwoSortedArray.java)
+064| Binary Search |[Kth Element Of Two Sorted Array](https://www.codingninjas.com/codestudio/problems/ninja-and-ladoos_1112629?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_KthElementOfTwoSortedArray](./Solutions/Day_15_KthElementOfTwoSortedArray.java)
+065| Binary Search |[Book Allocation Problem](https://www.codingninjas.com/codestudio/problems/ayush-gives-ninjatest_1097574?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_BookAllocationProblem](./Solutions/Day_15_BookAllocationProblem.java)
+066| Binary Search |[Aggressive Cows](https://www.codingninjas.com/codestudio/problems/chess-tournament_981299?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_AggressiveCows.java](./Solutions/Day_15_AggressiveCows.java)

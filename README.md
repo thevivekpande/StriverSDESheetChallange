@@ -157,3 +157,9 @@ Sr. No. | Topics | Problems | Solutions
 064| Binary Search |[Kth Element Of Two Sorted Array](https://www.codingninjas.com/codestudio/problems/ninja-and-ladoos_1112629?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_KthElementOfTwoSortedArray](./Solutions/Day_15_KthElementOfTwoSortedArray.java)
 065| Binary Search |[Book Allocation Problem](https://www.codingninjas.com/codestudio/problems/ayush-gives-ninjatest_1097574?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_BookAllocationProblem](./Solutions/Day_15_BookAllocationProblem.java)
 066| Binary Search |[Aggressive Cows](https://www.codingninjas.com/codestudio/problems/chess-tournament_981299?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_AggressiveCows.java](./Solutions/Day_15_AggressiveCows.java)
+
+
+### Day 16
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------

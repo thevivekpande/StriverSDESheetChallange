@@ -12,57 +12,58 @@ Sr. No. | Topics | Problems | Solutions
 
 ### Day 02
 
-Problems | Solutions
-------------- | -------------
-[Sort 0 1 2](https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_Sort012](./Solutions/Day_02_Sort012.java)
-[Best time to buy and sell Stocks](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_BestTimeToBuyAndSellStocks](./Solutions/Day_02_BestTimeToBuyAndSellStocks.java)
-[Rotate Matrix](https://www.codingninjas.com/codestudio/problems/rotate-matrix_981260?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_RotateMatrix](./Solutions/Day_02_RotateMatrix.java)
-[Merge Intervals](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_MergeIntervals](./Solutions/Day_02_MergeIntervals.java)
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+005 | Arrays |[Sort 0 1 2](https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_Sort012](./Solutions/Day_02_Sort012.java)
+006 | Arrays | [Best time to buy and sell Stocks](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_BestTimeToBuyAndSellStocks](./Solutions/Day_02_BestTimeToBuyAndSellStocks.java)
+007 | Arrays |[Rotate Matrix](https://www.codingninjas.com/codestudio/problems/rotate-matrix_981260?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_RotateMatrix](./Solutions/Day_02_RotateMatrix.java)
+008 | Arrays | [Merge Intervals](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_02_MergeIntervals](./Solutions/Day_02_MergeIntervals.java)
 
 
 
 ### Day 03
 
-Problems | Solutions
-------------- | -------------
-[Merge Two Sorted Array](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_03_MergeTwoSortedArray](./Solutions/Day_03_MergeTwoSortedArray.java)
-[Duplicate number in Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_03_DuplicateNumber](./Solutions/Day_03_DuplicateNumber.java)
-[Missing and Repeating Number](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_873366?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_03_MissingAndRepeating](./Solutions/Day_03_MissingAndRepeating.java)
-[Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615?topList=striver-sde-sheet-problems) | [Day_03_CountInversions](./Solutions/Day_03_CountInversions.java)
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+009 | Arrays |[Merge Two Sorted Array](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_03_MergeTwoSortedArray](./Solutions/Day_03_MergeTwoSortedArray.java)
+010 | Arrays | [Duplicate number in Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_03_DuplicateNumber](./Solutions/Day_03_DuplicateNumber.java)
+011 | Arrays | [Missing and Repeating Number](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_873366?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_03_MissingAndRepeating](./Solutions/Day_03_MissingAndRepeating.java)
+012 | Arrays | [Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615?topList=striver-sde-sheet-problems) | [Day_03_CountInversions](./Solutions/Day_03_CountInversions.java)
 
 
 ### Day 04
 
-Problems | Solutions
-------------- | -------------
-[Search in a 2D Matrix](https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_SearchInA2DMatrix](./Solutions/Day_04_SearchInA2DMatrix.java)
-[Modular Exponentiation](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_ModularExponentiation](./Solutions/Day_04_ModularExponentiation.java)
-[Majority Element](https://www.codingninjas.com/codestudio/problems/majority-element_842495?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_MajorityElement](./Solutions/Day_04_MajorityElement.java)
-[Majority Element 2](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_MajorityElement2](./Solutions/Day_04_MajorityElement2.java)
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+013 | Arrays | [Search in a 2D Matrix](https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_980531?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_SearchInA2DMatrix](./Solutions/Day_04_SearchInA2DMatrix.java)
+014 | Arrays | [Modular Exponentiation](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_ModularExponentiation](./Solutions/Day_04_ModularExponentiation.java)
+015 | Arrays | [Majority Element](https://www.codingninjas.com/codestudio/problems/majority-element_842495?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_MajorityElement](./Solutions/Day_04_MajorityElement.java)
+016 | Arrays | [Majority Element 2](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_04_MajorityElement2](./Solutions/Day_04_MajorityElement2.java)
 
 
 ### Day 05
 
-Problems | Solutions
-------------- | -------------
-[Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_UniquePaths](./Solutions/Day_05_UniquePaths.java)
-[Reverse Pairs](https://www.codingninjas.com/codestudio/problems/reverse-pairs_1112652?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_ReversePairs](./Solutions/Day_05_ReversePairs.java)
-[Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_697295?topList=striver-sde-sheet-problems&leftPanelTab=1)|[Day_05_PairSum](./Solutions/Day_05_PairSum.java)
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+017 | Arrays | [Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_UniquePaths](./Solutions/Day_05_UniquePaths.java)
+018 | Arrays | [Reverse Pairs](https://www.codingninjas.com/codestudio/problems/reverse-pairs_1112652?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_05_ReversePairs](./Solutions/Day_05_ReversePairs.java)
+019 | Arrays | [Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_697295?topList=striver-sde-sheet-problems&leftPanelTab=1)|[Day_05_PairSum](./Solutions/Day_05_PairSum.java)
 
 
 ### Day 06
 
-Problems | Solutions
-------------- | -------------
-[4 Sum](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_983605?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_06_4Sum](./Solutions/Day_06_4Sum.java)
-[Longest Consecutive Sequence](codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestConsecutiveSequence](./Solutions/Day_06_LongestConsecutiveSequence.java)
-[Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subset-zero-sum_920321?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestSubarrayZeroSum](./Solutions/Day_06_LongestSubarrayZeroSum.java)
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+020 | Arrays | [4 Sum](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_983605?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_06_4Sum](./Solutions/Day_06_4Sum.java)
+021 | Arrays | [Longest Consecutive Sequence](codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestConsecutiveSequence](./Solutions/Day_06_LongestConsecutiveSequence.java)
+022 | Arrays | [Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subset-zero-sum_920321?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_06_LongestSubarrayZeroSum](./Solutions/Day_06_LongestSubarrayZeroSum.java)
 
 
 ### Day 07
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Count Subarrays With Given Xor](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_07_CountSubarraysWithGivenXor](./Solutions/Day_07_CountSubarraysWithGivenXor.java)
 [Longest Substr Without Repeating Char](https://www.codingninjas.com/codestudio/problems/630418?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Day_07_LongestSubstrWithoutRepeatingChar](./Solutions/Day_07_LongestSubstrWithoutRepeatingChar.java)
 [Reverse LinkedList](https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_07_ReverseLinkedList](./Solutions/Day_07_ReverseLinkedList.java)
@@ -71,8 +72,8 @@ Problems | Solutions
 
 ### Day 08
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Merge Two Sorted LinkedList](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_800332?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_08_MergeTwoSortedLinkedList](./Solutions/Day_08_MergeTwoSortedLinkedList.java)
 [Delete Kth Node From End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteKthNodeFromEnd](./Solutions/Day_08_DeleteKthNodeFromEnd.java)
 [Add Two Numbers As LinkedLists](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_1170520?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_AddTwoNumbersAsLinkedLists](./Solutions/Day_08_AddTwoNumbersAsLinkedLists.java)
@@ -80,8 +81,8 @@ Problems | Solutions
 
 ### Day 09
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Intersection Of Two LinkedList](https://www.codingninjas.com/codestudio/problems/intersection-of-linked-list_630457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_09_IntersectionOfTwoLinkedList](./Solutions/Day_09_IntersectionOfTwoLinkedList.java)
 [Cycle Detection In Singly LinkedList](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_628974?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_CycleDetectionInSinglyLinkedList](./Solutions/Day_09_CycleDetectionInSinglyLinkedList.java)
 [Reverse Nodes In K Groups](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_ReverseNodesInKGRoups.java](./Solutions/Day_09_ReverseNodesInKGRoups.java)
@@ -89,8 +90,8 @@ Problems | Solutions
 
 ### Day 10
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Palindrome LinkedList](https://www.codingninjas.com/codestudio/problems/palindrom-linked-list_799352?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_PalindromeLinkedList](./Solutions/Day_10_PalindromeLinkedList.java)
 [LinkedList Cycle 2](https://www.codingninjas.com/codestudio/problems/detect-the-first-node-of-the-loop_1112628?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_10_LinkedListCycle2](./Solutions/Day_10_LinkedListCycle2.java)
 [Flatten A LinkedList](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_10_FlattenALinkedList](./Solutions/Day_10_FlattenALinkedList.java)
@@ -100,8 +101,8 @@ Problems | Solutions
 
 ### Day 11
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [3 Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_11_3sum](./Solutions/Day_11_3sum.java)
 [Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rainwater_630519?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_TrappingRainWater](./Solutions/Day_11_TrappingRainWater.java)
 [Remove Duplicates From Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_1102307?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_11_RemoveDuplicatesFromSortedArray](./Solutions/Day_11_RemoveDuplicatesFromSortedArray.java)
@@ -111,8 +112,8 @@ Problems | Solutions
 
 ### Day 12
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_JobSequencingProblem](./Solutions/Day_12_JobSequencingProblem.java)
 [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_975286?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_12_FractionalKnapsack](./Solutions/Day_12_FractionalKnapsack.java)
 [Minimum Number of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_975277?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_12_MinimumNumberOfCoins](./Solutions/Day_12_MinimumNumberOfCoins.java)
@@ -124,8 +125,8 @@ Problems | Solutions
 
 ### Day 13
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Combination Sum II](https://www.codingninjas.com/codestudio/problems/combination-sum-ii_1112622?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_CombinationSumII](./Solutions/Day_13_CombinationSumII.java)
 [Palindromic Substring](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_799931?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_13_PalindromicSubstring](./Solutions/Day_13_PalindromicSubstring.java)
 [Kth Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_1112626?topList=striver-sde-sheet-problems&leftPanelTab=0)|[Day_13_KthPermutationSequence](./Solutions/Day_13_KthPermutationSequence.java)
@@ -135,8 +136,9 @@ Problems | Solutions
 
 ### Day 14
 
-Problems | Solutions
-------------- | -------------
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Sudoku Solver](https://www.codingninjas.com/codestudio/problems/sudoku_758961?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_SudokuSolver](./Solutions/Day_14_SudokuSolver.java)
 [M Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_981273?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_14_MColoringProblem](./Solutions/Day_14_MColoringProblem.java)
 [Rat In a Maze All Paths](https://www.codingninjas.com/codestudio/problems/rat-in-a-maze-all-paths_758966?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_14_RatInAMazeAllPaths](./Solutions/Day_14_RatInAMazeAllPaths.java)
@@ -146,8 +148,8 @@ Problems | Solutions
 
 ### Day 15
 
-Problems | Solutions
-------------- | -------------
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 [Matrix Median](https://www.codingninjas.com/codestudio/problems/matrix-median_873378?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_MatrixMedian](./Solutions/Day_15_MatrixMedian.java)
 [Single Element In A Sorted Array](https://www.codingninjas.com/codestudio/problems/unique-element-in-sorted-array_1112654?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_15_SingleElementInASortedArray](./Solutions/Day_15_SingleElementInASortedArray.java)
 [Search in a Rotated Sorted Array](https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_630450?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_15_SearchInARotatedSortedArray](./Solutions/Day_15_SearchInARotatedSortedArray.java)

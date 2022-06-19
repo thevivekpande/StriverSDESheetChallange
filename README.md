@@ -2,12 +2,12 @@
 
 ### Day 01
 
-Problems | Solutions
-------------- | -------------
-[Set Matrix Zero](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_3846774?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)  | [Day_01_SetMatrixZero](./Solutions/Day_01_SetMatrixZero.java)
-[Pascal's Triangle](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580?topList=striver-sde-sheet-problems)  | [Day_01_PascalsTriangle](./Solutions/Day_01_PascalsTriangle.java)
-[Next Permutation](https://www.codingninjas.com/codestudio/problems/893046?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Day_01_NextPermutation](./Solutions/Day_01_NextPermutation.java)
-[Maximum SubArray Sum](https://www.codingninjas.com/codestudio/problems/630526?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Day_01_MaximumSubarraySum](./Solutions/Day_01_MaximumSubarraySum.java)
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+001 | Arrays | [Set Matrix Zero](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_3846774?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)  | [Day_01_SetMatrixZero](./Solutions/Day_01_SetMatrixZero.java)
+002 | Arrays | [Pascal's Triangle](https://www.codingninjas.com/codestudio/problems/pascal-s-triangle_1089580?topList=striver-sde-sheet-problems)  | [Day_01_PascalsTriangle](./Solutions/Day_01_PascalsTriangle.java)
+003 | Arrays |[Next Permutation](https://www.codingninjas.com/codestudio/problems/893046?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Day_01_NextPermutation](./Solutions/Day_01_NextPermutation.java)
+004 | Arrays | [Maximum SubArray Sum](https://www.codingninjas.com/codestudio/problems/630526?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Day_01_MaximumSubarraySum](./Solutions/Day_01_MaximumSubarraySum.java)
 
 
 ### Day 02

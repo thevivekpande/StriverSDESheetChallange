@@ -64,28 +64,28 @@ Sr. No. | Topics | Problems | Solutions
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Count Subarrays With Given Xor](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_07_CountSubarraysWithGivenXor](./Solutions/Day_07_CountSubarraysWithGivenXor.java)
-[Longest Substr Without Repeating Char](https://www.codingninjas.com/codestudio/problems/630418?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Day_07_LongestSubstrWithoutRepeatingChar](./Solutions/Day_07_LongestSubstrWithoutRepeatingChar.java)
-[Reverse LinkedList](https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_07_ReverseLinkedList](./Solutions/Day_07_ReverseLinkedList.java)
-[Middle Of LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_07_MiddleOfLinkedList](./Solutions/Day_07_MiddleOfLinkedList.java)
+023 | Arrays | [Count Subarrays With Given Xor](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_07_CountSubarraysWithGivenXor](./Solutions/Day_07_CountSubarraysWithGivenXor.java)
+024 | Arrays | [Longest Substr Without Repeating Char](https://www.codingninjas.com/codestudio/problems/630418?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website&leftPanelTab=0) | [Day_07_LongestSubstrWithoutRepeatingChar](./Solutions/Day_07_LongestSubstrWithoutRepeatingChar.java)
+025| Linked List | [Reverse LinkedList](https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_07_ReverseLinkedList](./Solutions/Day_07_ReverseLinkedList.java)
+026| Linked List |[Middle Of LinkedList](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_07_MiddleOfLinkedList](./Solutions/Day_07_MiddleOfLinkedList.java)
 
 
 ### Day 08
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Merge Two Sorted LinkedList](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_800332?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_08_MergeTwoSortedLinkedList](./Solutions/Day_08_MergeTwoSortedLinkedList.java)
-[Delete Kth Node From End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteKthNodeFromEnd](./Solutions/Day_08_DeleteKthNodeFromEnd.java)
-[Add Two Numbers As LinkedLists](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_1170520?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_AddTwoNumbersAsLinkedLists](./Solutions/Day_08_AddTwoNumbersAsLinkedLists.java)
-[Delete Node Of A Linkedlist](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_1105578?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteNodeOfALinkedlist](./Solutions/Day_08_DeleteNodeOfALinkedlist.java)
+027| Linked List | [Merge Two Sorted LinkedList](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_800332?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_08_MergeTwoSortedLinkedList](./Solutions/Day_08_MergeTwoSortedLinkedList.java)
+028| Linked List |[Delete Kth Node From End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end-in-linked-list_799912?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteKthNodeFromEnd](./Solutions/Day_08_DeleteKthNodeFromEnd.java)
+029| Linked List |[Add Two Numbers As LinkedLists](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_1170520?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_AddTwoNumbersAsLinkedLists](./Solutions/Day_08_AddTwoNumbersAsLinkedLists.java)
+030| Linked List |[Delete Node Of A Linkedlist](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_1105578?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_08_DeleteNodeOfALinkedlist](./Solutions/Day_08_DeleteNodeOfALinkedlist.java)
 
 ### Day 09
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[Intersection Of Two LinkedList](https://www.codingninjas.com/codestudio/problems/intersection-of-linked-list_630457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_09_IntersectionOfTwoLinkedList](./Solutions/Day_09_IntersectionOfTwoLinkedList.java)
-[Cycle Detection In Singly LinkedList](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_628974?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_CycleDetectionInSinglyLinkedList](./Solutions/Day_09_CycleDetectionInSinglyLinkedList.java)
-[Reverse Nodes In K Groups](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_ReverseNodesInKGRoups.java](./Solutions/Day_09_ReverseNodesInKGRoups.java)
+031| Linked List |[Intersection Of Two LinkedList](https://www.codingninjas.com/codestudio/problems/intersection-of-linked-list_630457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Day_09_IntersectionOfTwoLinkedList](./Solutions/Day_09_IntersectionOfTwoLinkedList.java)
+032| Linked List |[Cycle Detection In Singly LinkedList](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_628974?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_CycleDetectionInSinglyLinkedList](./Solutions/Day_09_CycleDetectionInSinglyLinkedList.java)
+033| Linked List |[Reverse Nodes In K Groups](https://www.codingninjas.com/codestudio/problems/reverse-blocks_763406?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Day_09_ReverseNodesInKGRoups.java](./Solutions/Day_09_ReverseNodesInKGRoups.java)
 
 
 ### Day 10

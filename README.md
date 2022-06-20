@@ -165,3 +165,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 069 | Heaps | [Min Heap](https://www.codingninjas.com/codestudio/problems/min-heap_4691801?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_16_MinHeap.java) 
 070 | Heaps | [Kth Smallest And Largest Element](https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_1115488?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_16_KthSmallestAndLargestElement.java)
+071 | Heaps | [K Max Sum Combinations](https://www.codingninjas.com/codestudio/problems/k-max-sum-combinations_975322?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_16_KMaxSumCombinations.java)

@@ -169,3 +169,8 @@ Sr. No. | Topics | Problems | Solutions
 072 | Heaps | [Medians of a Running Stream](https://www.codingninjas.com/codestudio/problems/running-median_625409?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_16_MedainsOfARunningStream.java)
 073 | Heaps | [Merge K Sorted Arrays](https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_16_MergeKSortedArrays.java)
 074 | Heaps | [K Most Frequent Elements](https://www.codingninjas.com/codestudio/problems/k-most-frequent-elements_3167808?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_16_KMostFrequentElements.java)
+
+### Day 17
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------

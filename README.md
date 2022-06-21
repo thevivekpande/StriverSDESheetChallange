@@ -175,3 +175,4 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 075 | Trie | [Implement Trie](https://www.codingninjas.com/codestudio/problems/implement-trie_631356?topList=striver-sde-sheet-problems&leftPanelTab=1) |[Solution](./Solutions/Day_17_ImplementTrie.java)
+076 | Trie | [Implement Trie II](https://www.codingninjas.com/codestudio/problems/implement-trie_1387095?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_17_ImplementTrieII.java)

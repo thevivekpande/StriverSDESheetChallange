@@ -176,3 +176,10 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 075 | Trie | [Implement Trie](https://www.codingninjas.com/codestudio/problems/implement-trie_631356?topList=striver-sde-sheet-problems&leftPanelTab=1) |[Solution](./Solutions/Day_17_ImplementTrie.java)
 076 | Trie | [Implement Trie II](https://www.codingninjas.com/codestudio/problems/implement-trie_1387095?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_17_ImplementTrieII.java)
+
+
+### Day 18
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+077 | Trie | [Complete String](https://www.codingninjas.com/codestudio/problems/complete-string_2687860?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_18_CompleteString.java)

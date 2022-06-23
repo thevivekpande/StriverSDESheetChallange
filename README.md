@@ -185,3 +185,10 @@ Sr. No. | Topics | Problems | Solutions
 077 | Trie | [Complete String](https://www.codingninjas.com/codestudio/problems/complete-string_2687860?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_18_CompleteString.java)
 078 | Trie | [Number of Distinct Substring](https://www.codingninjas.com/codestudio/problems/number-of-distinct-substring_1465938?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_18_NumberOfDistinctSubstring.java)
 079 |   Recursion | [Power Set](https://www.codingninjas.com/codestudio/problems/power-set_1062667?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_18_PowerSet.java)
+
+
+### Day 19
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+080 | Trie | [Maximum Xor inside a Array](https://www.codingninjas.com/codestudio/problems/maximum-xor_3119012?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_19_MaxXorInAArray.java)

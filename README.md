@@ -192,3 +192,10 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 080 | Trie | [Maximum Xor inside a Array](https://www.codingninjas.com/codestudio/problems/maximum-xor_3119012?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_19_MaxXorInAArray.java)
+
+
+### Day 20
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+081 | Trie | [Maximum Xor with an Element](https://www.codingninjas.com/codestudio/problems/max-xor-queries_1382020?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solution/Day_20_MaximumXorWithAnElement.java)

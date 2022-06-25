@@ -199,3 +199,6 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 081 | Trie | [Maximum Xor with an Element](https://www.codingninjas.com/codestudio/problems/max-xor-queries_1382020?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_20_MaximumXorWithAnElement.java)
+
+
+### Day 21

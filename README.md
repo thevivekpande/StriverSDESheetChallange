@@ -202,3 +202,6 @@ Sr. No. | Topics | Problems | Solutions
 
 
 ### Day 21
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------

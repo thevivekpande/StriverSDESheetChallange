@@ -216,3 +216,4 @@ Sr. No. | Topics | Problems | Solutions
 084 | Stack and Queue | [Stack using Queue](https://www.codingninjas.com/codestudio/problems/stack-using-queue_795152?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_StackUsingQueue.java)
 085 | Stack and Queue | [Queue using Stack](https://www.codingninjas.com/codestudio/problems/queue-using-stack_799482?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_QueueUsingStack.java)
 086 | Stack | [Valid Parentheses](https://www.codingninjas.com/codestudio/problems/valid-parenthesis_795104?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution][./Solutions/Day_22_ValidParentheses.java)
+087 | Stack | [Next Greater Element](https://www.codingninjas.com/codestudio/problems/next-greater-element_799354?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_NextGreaterElement.java)

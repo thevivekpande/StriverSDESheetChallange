@@ -218,3 +218,4 @@ Sr. No. | Topics | Problems | Solutions
 086 | Stack | [Valid Parentheses](https://www.codingninjas.com/codestudio/problems/valid-parenthesis_795104?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_ValidParentheses.java)
 087 | Stack | [Next Greater Element](https://www.codingninjas.com/codestudio/problems/next-greater-element_799354?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_NextGreaterElement.java)
 088 | Stack | [Sort a stack](https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_SortAStack.java)
+089 | Stack | [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_NextSmallerElement.java)

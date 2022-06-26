@@ -206,3 +206,10 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 082 | Stack | [Stack Implementation Using Array](https://www.codingninjas.com/codestudio/problems/stack-implementation-using-array_3210209?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_21_StackImplementUsingArray.java)
+
+
+### Day 22
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+082 | Queue | [Queue Implementation Using Array](https://www.codingninjas.com/codestudio/problems/queue-using-array-or-singly-linked-list_2099908?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_22_QueueImplementationUsingArray.java)

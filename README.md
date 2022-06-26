@@ -212,4 +212,5 @@ Sr. No. | Topics | Problems | Solutions
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-082 | Queue | [Queue Implementation Using Array](https://www.codingninjas.com/codestudio/problems/queue-using-array-or-singly-linked-list_2099908?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_22_QueueImplementationUsingArray.java)
+083 | Queue | [Queue Implementation Using Array](https://www.codingninjas.com/codestudio/problems/queue-using-array-or-singly-linked-list_2099908?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_22_QueueImplementationUsingArray.java)
+084 | Stack and Queue | [Stack using Queue](https://www.codingninjas.com/codestudio/problems/stack-using-queue_795152?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_StackUsingQueue.java)

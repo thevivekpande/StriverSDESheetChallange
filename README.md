@@ -226,3 +226,4 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 090 | Stack & Doubly Linked List | [LRU Cache](https://www.codingninjas.com/codestudio/problems/lru-cache-implementation_670276?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_23_LRUCache.java)
+091 | HashMap | [LFU Cache](https://www.codingninjas.com/codestudio/problems/lfucache_3114758?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_23_LFUCache.java)

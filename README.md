@@ -219,3 +219,10 @@ Sr. No. | Topics | Problems | Solutions
 087 | Stack | [Next Greater Element](https://www.codingninjas.com/codestudio/problems/next-greater-element_799354?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_NextGreaterElement.java)
 088 | Stack | [Sort a stack](https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_SortAStack.java)
 089 | Stack | [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_22_NextSmallerElement.java)
+
+
+### Day 23
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+090 | Stack & Doubly Linked List | [LRU Cache](https://www.codingninjas.com/codestudio/problems/lru-cache-implementation_670276?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_23_LRUCache.java)

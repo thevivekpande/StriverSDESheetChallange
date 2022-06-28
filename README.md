@@ -227,3 +227,10 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 090 | Stack & Doubly Linked List | [LRU Cache](https://www.codingninjas.com/codestudio/problems/lru-cache-implementation_670276?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_23_LRUCache.java)
 091 | HashMap | [LFU Cache](https://www.codingninjas.com/codestudio/problems/lfucache_3114758?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_23_LFUCache.java)
+
+
+### Day 24
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+092 | Stack | [Largest Rectangle in a Histogram](https://www.codingninjas.com/codestudio/problems/largest-rectangle-in-a-histogram_1058184?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_LargestRectangleInAHistogram.java)

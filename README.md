@@ -237,3 +237,4 @@ Sr. No. | Topics | Problems | Solutions
 093 | Deque | [Sliding Window Maximum](https://www.codingninjas.com/codestudio/problems/sliding-window-maximum_980226?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_SlidingWindowMaximum.java)
 094 | Stack | [Min Stack](https://www.codingninjas.com/codestudio/problems/min-stack_3843991?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_MinStack.java)
 095 | Queue & BFS | [Rotting Oranges](https://www.codingninjas.com/codestudio/problems/rotting-oranges_701655?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_24_RottingOranges.java)
+096 | Stack | [Stock Span](https://www.codingninjas.com/codestudio/problems/span-of-ninja-coin_1475049?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_StockSpan.java)

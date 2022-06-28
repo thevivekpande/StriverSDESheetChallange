@@ -235,3 +235,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 092 | Stack | [Largest Rectangle in a Histogram](https://www.codingninjas.com/codestudio/problems/largest-rectangle-in-a-histogram_1058184?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_LargestRectangleInAHistogram.java)
 093 | Deque | [Sliding Window Maximum](https://www.codingninjas.com/codestudio/problems/sliding-window-maximum_980226?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_SlidingWindowMaximum.java)
+094 | Stack | [Min Stack](https://www.codingninjas.com/codestudio/problems/min-stack_3843991?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_MinStack.java)

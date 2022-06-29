@@ -246,4 +246,5 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 097 | Stack | [Maximum of Minimum of every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_MaximumOfMinimumOfEveryWindowSize.java)
 098 | Stack | [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_TheCelebrityProblem.java)
-099 | Stack | [Reverse Words in A String](https://www.codingninjas.com/codestudio/problems/reverse-words_696444?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_ReverseWordsInAString.java)
+099 | String | [Reverse Words in A String](https://www.codingninjas.com/codestudio/problems/reverse-words_696444?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_ReverseWordsInAString.java)
+100 | String | [Longest Palindromic Substring](https://www.codingninjas.com/codestudio/problems/longest-palindromic-substring_758900?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_LongestPalidromicSubstring.java)

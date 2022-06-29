@@ -238,3 +238,10 @@ Sr. No. | Topics | Problems | Solutions
 094 | Stack | [Min Stack](https://www.codingninjas.com/codestudio/problems/min-stack_3843991?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_MinStack.java)
 095 | Queue & BFS | [Rotting Oranges](https://www.codingninjas.com/codestudio/problems/rotting-oranges_701655?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_24_RottingOranges.java)
 096 | Stack | [Stock Span](https://www.codingninjas.com/codestudio/problems/span-of-ninja-coin_1475049?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_24_StockSpan.java)
+
+
+### Day 25
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+097 | Stack | [Maximum of Minimum of every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_MaximumOfMinimumOfEveryWindowSize.java)

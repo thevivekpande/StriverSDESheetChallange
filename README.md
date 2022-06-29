@@ -248,3 +248,4 @@ Sr. No. | Topics | Problems | Solutions
 098 | Stack | [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_TheCelebrityProblem.java)
 099 | String | [Reverse Words in A String](https://www.codingninjas.com/codestudio/problems/reverse-words_696444?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_ReverseWordsInAString.java)
 100 | String | [Longest Palindromic Substring](https://www.codingninjas.com/codestudio/problems/longest-palindromic-substring_758900?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_LongestPalidromicSubstring.java)
+101 | String | [Roman Number to Integer](https://www.codingninjas.com/codestudio/problems/roman-number-to-integer_981308?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_RomanNumberToInteger.java)

@@ -245,3 +245,4 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 097 | Stack | [Maximum of Minimum of every window size](https://www.codingninjas.com/codestudio/problems/max-of-min_982935?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_MaximumOfMinimumOfEveryWindowSize.java)
+098 | Stack | [The Celebrity Problem](https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_25_TheCelebrityProblem.java)

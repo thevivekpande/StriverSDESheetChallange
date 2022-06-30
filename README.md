@@ -264,3 +264,12 @@ Sr. No. | Topics | Problems | Solutions
 108 | String | [Check Anagram](https://www.codingninjas.com/codestudio/problems/check-permutation_1172164?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_26_CheckAnagram.java)
 109 | String | [Count and Say](https://www.codingninjas.com/codestudio/problems/write-as-you-speak_1090543?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_26_CountAndSay.java)
 110 | String | [Compare Version Number](https://www.codingninjas.com/codestudio/problems/compare-versions_1062582?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_26_CompareVersionNumbers.java)
+
+
+### Day 27
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+111 | Binary Tree | [Inorder Traversal](https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solution/Day_27_InorderTraversal.java)
+111 | Binary Tree | [Preorder Traversal](https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solution/Day_27_PreorderTraversal.java)
+111 | Binary Tree | [Postorder Traversal](https://www.codingninjas.com/codestudio/problems/postorder-traversal_3839614?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solution/Day_27_PostorderTraversal.java)

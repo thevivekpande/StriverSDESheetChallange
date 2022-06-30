@@ -20,5 +20,48 @@ public class Solution {
     }
 }
 
-// Using KMP Algo
+// #M2 Using KMP Algo
 // Refer GFG Article for details
+
+public class Solution {
+    private static void fillLps(String str, int[] lps){
+        int n=str.length(), len=0;
+        lps[0]=0;
+        int i=1;
+        while(i<n){
+            if(str.charAt(i)==str.charAt(len)){
+                len++;
+                lps[i]=len;
+                i++;
+            }else{
+                if(len==0){
+                    lps[i]=0;
+                    i++;
+                }else{
+                    len=lps[len-1];
+                }
+            }
+        }
+    }
+    public static boolean findPattern(String p, String s) {
+        // Write your code here.
+        int m=p.length(), n=s.length();
+        int[] lps=new int[m];
+        fillLps(p, lps);
+        int i=0, j=0;
+        while(i<n){
+            if(p.charAt(j)==s.charAt(i)){
+                i++;
+                j++;
+            }
+            if(j==m) return true;
+            else if(i<n && p.charAt(j)!=s.charAt(i)){
+                if(j==0)
+                    i++;
+                else
+                    j=lps[j-1];
+            }
+        }
+        return false;
+    }
+}

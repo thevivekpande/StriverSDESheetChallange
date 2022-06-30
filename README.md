@@ -260,3 +260,4 @@ Sr. No. | Topics | Problems | Solutions
 104 | String | [Rabin Karp Algorithm](https://www.codingninjas.com/codestudio/problems/stringmatch-rabincarp_1115738?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_26_RabinKarpAlgorithm.java)
 105 | String | [Z Algorithm](https://www.codingninjas.com/codestudio/problems/z-algorithm_1112619?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_26_ZAlgorithm.java)
 106 | String | [KMP Algorithm](https://www.codingninjas.com/codestudio/problems/find-pattern-in-string_1112621?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_26_KMPAlgorithm.java)
+107 | String | [Minimum characters for palindrome](https://www.codingninjas.com/codestudio/problems/minimum-characters-for-palindrome_893000?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_26_MinimumCharacterForPalindrome.java)

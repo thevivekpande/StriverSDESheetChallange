@@ -273,3 +273,4 @@ Sr. No. | Topics | Problems | Solutions
 111 | Binary Tree | [Inorder Traversal](https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_InorderTraversal.java)
 112 | Binary Tree | [Preorder Traversal](https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_PreorderTraversal.java)
 113 | Binary Tree | [Postorder Traversal](https://www.codingninjas.com/codestudio/problems/postorder-traversal_3839614?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_PostorderTraversal.java)
+114 | Binary Tree | [Left View of Binary Tree](https://www.codingninjas.com/codestudio/problems/left-view-of-a-binary-tree_920519?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_LeftViewOfBinaryTree.java)

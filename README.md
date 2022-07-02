@@ -277,3 +277,10 @@ Sr. No. | Topics | Problems | Solutions
 115 | Binary Tree | [Bottom View of Binary Tree](https://www.codingninjas.com/codestudio/problems/bottom-view-of-binary-tree_893110?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_BottomViewOfBinaryTree.java)
 116 | Binary Tree | [Top View of Binary Tree](https://www.codingninjas.com/codestudio/problems/top-view-of-the-tree_799401?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_TopViewOfBinaryTree.java)
 117 | Binary Tree | [All Tree Traversal in One Go](https://www.codingninjas.com/codestudio/problems/tree-traversal_981269?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_27_AllTreeTraversalInOneGo.java)
+
+
+### Day 28
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+118 | Binary Tree | [Level Order Traversal](https://www.codingninjas.com/codestudio/problems/vertical-order-traversal_920533?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_VerticalOrderTraversal.java)

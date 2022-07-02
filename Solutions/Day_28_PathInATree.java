@@ -17,11 +17,9 @@ import java.util.*;
 public class Solution {
     public static boolean helper(ArrayList<Integer> res, int x, TreeNode root){
         if(root==null) return false;
-        if(root.data==x){
-            res.add(x);
-                return true;
-        }
         res.add(root.data);
+        if(root.data==x)
+            return true;
         if(helper(res, x, root.left)) return true;
         if(helper(res, x, root.right)) return true;
         res.remove(res.size()-1);

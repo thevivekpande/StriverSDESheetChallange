@@ -291,3 +291,4 @@ Sr. No. | Topics | Problems | Solutions
 123 | Binary Tree | [Diameter of Binary Tree](https://www.codingninjas.com/codestudio/problems/diameter-of-the-binary-tree_920552?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_28_DiameterOfABinaryTree.java)
 124 | Binary Tree | [Is Height Balanced BT](https://www.codingninjas.com/codestudio/problems/is-height-balanced-binary-tree_975497?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_28_IsHeightBalanced.java)
 125 | Binary Tree | [LCA of Binary Tree](https://www.codingninjas.com/codestudio/problems/lca-of-binary-tree_920541?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_LCAOfABinaryTree.java)
+126 | Binary Tree | [Identical Tree](https://www.codingninjas.com/codestudio/problems/identical-trees_799364?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_28_IdenticalTrees.java)

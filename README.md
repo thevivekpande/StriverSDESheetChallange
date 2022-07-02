@@ -285,3 +285,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 118 | Binary Tree | [Level Order Traversal](https://www.codingninjas.com/codestudio/problems/vertical-order-traversal_920533?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_VerticalOrderTraversal.java)
 119 | Binary Tree | [Path in a Tree](https://www.codingninjas.com/codestudio/problems/path-in-a-tree_3843990?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_PathInATree.java)
+120 | Binary Tree | [Maximum Width of a Binary Tree](https://www.codingninjas.com/codestudio/problems/maximum-width-in-binary-tree_763671?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_MaximumWidthOfBinaryTree.java)

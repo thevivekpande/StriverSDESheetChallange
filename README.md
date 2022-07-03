@@ -299,3 +299,4 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 128 | Binary Tree | [Boundary Traversal](https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_29_BoundaryTraversal.java)
+129 | Binary Tree | [Maximum Path Sum b/w Two Leaves](https://www.codingninjas.com/codestudio/problems/maximum-path-sum-between-two-leaves_794950?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_29_MaximumPathSumBetweenTwoLeaves.java)

@@ -293,3 +293,9 @@ Sr. No. | Topics | Problems | Solutions
 125 | Binary Tree | [LCA of Binary Tree](https://www.codingninjas.com/codestudio/problems/lca-of-binary-tree_920541?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_LCAOfABinaryTree.java)
 126 | Binary Tree | [Identical Tree](https://www.codingninjas.com/codestudio/problems/identical-trees_799364?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_28_IdenticalTrees.java)
 127 | Binary Tree | [ZigZag Order Traversal](https://www.codingninjas.com/codestudio/problems/zig-zag-traversal_1062662?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_28_ZigZagOrderTraversal.java)
+
+### Day 29
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+128 | Binary Tree | [Boundary Traversal](https://www.codingninjas.com/codestudio/problems/boundary-traversal_790725?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_29_BoundaryTraversal.java)

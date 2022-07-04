@@ -310,4 +310,4 @@ Sr. No. | Topics | Problems | Solutions
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
-[x] | Binary Tree | [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723?topList=striver-sde-sheet-problems)| [Solution](./Solutions/Day_30_ChildrenSumProperty.java) 
+135 | Binary Tree | [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723?topList=striver-sde-sheet-problems)| [Solution](./Solutions/Day_30_ChildrenSumProperty.java) 

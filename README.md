@@ -316,3 +316,4 @@ Sr. No. | Topics | Problems | Solutions
 138 | Binary Search Tree | [Convert Sorted Array to BST](https://www.codingninjas.com/codestudio/problems/convert-sorted-array-to-bst_1264995?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_30_SortedArrayToBST.java)
 139 | Binary Search Tree | [BST from Preorder Traversal](https://www.codingninjas.com/codestudio/problems/bst-from-preorder_2689307?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_BSTFromPreorder.java)
 140 | Binary Search Tree | [Validate BST](https://www.codingninjas.com/codestudio/problems/validate-bst_799483?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_30_ValidateBST.java)
+141 | Binary Search Tree | [LCA in a BST](https://www.codingninjas.com/codestudio/problems/lca-in-a-bst_981280?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_LCAinABST.java)

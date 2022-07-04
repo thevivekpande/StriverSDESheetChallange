@@ -312,3 +312,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 135 | Binary Tree | [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723?topList=striver-sde-sheet-problems)| [Solution](./Solutions/Day_30_ChildrenSumProperty.java) 
 136 | Binary Tree | [Connect Nodes at same level](https://www.codingninjas.com/codestudio/problems/connect-nodes-at-same-level_985347?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_30_ConnectNodesAtSameLevel.java)
+137 | Binary Search Tree | [Search in a Binary Search Tree](https://www.codingninjas.com/codestudio/problems/search-in-bst_1402878?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_SearchInABST.java)

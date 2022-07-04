@@ -322,3 +322,4 @@ Sr. No. | Topics | Problems | Solutions
 143 | Binary Search Tree | [Floor of a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_FloorOfABST.java)
 144 | Binary Search Tree | [Ceil of a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_CeilOfABST.java)
 145 | Binary Search Tree | [Kth Largest Number in BST](https://www.codingninjas.com/codestudio/problems/k-th-largest-number_920438?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_KthLargestNumberINBST.java)
+146 | Binary Search Tree | [Kth Smallest Number in BST](https://www.codingninjas.com/codestudio/problems/kth-smallest-node-in-bst_920441?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_KthSmallestNumberINBST.java)

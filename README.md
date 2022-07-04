@@ -320,3 +320,4 @@ Sr. No. | Topics | Problems | Solutions
 141 | Binary Search Tree | [LCA in a BST](https://www.codingninjas.com/codestudio/problems/lca-in-a-bst_981280?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_LCAinABST.java)
 142 | Binary Search Tree | [Inorder Predecessor and Successor](https://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/) | [Solution](./Solutions/Day_30_InorderPreSuccInBST.java) 
 143 | Binary Search Tree | [Floor of a BST](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_FloorOfABST.java)
+144 | Binary Search Tree | [Ceil of a BST](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_30_CeilOfABST.java)

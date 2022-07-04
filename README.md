@@ -305,3 +305,9 @@ Sr. No. | Topics | Problems | Solutions
 132 | Binary Tree | [Symmetric Tree](https://www.codingninjas.com/codestudio/problems/tree-symmetricity_630426?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_29_SymmetricTree.java)
 133 | Binary Tree | [Invert a Binary Tree](https://www.codingninjas.com/codestudio/problems/invert-a-binary-tree_1281382?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_29_InvertABinaryTree.java)
 134 | Binary Tree | [Flatten Binary Tree to Linked List](https://www.codingninjas.com/codestudio/problems/flatten-binary-tree-to-linked-list_1112615?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_29_FlattenBinaryTreeToLinkedList.java)
+
+### Day 29
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+[135] | Binary Tree | [Children Sum Property](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723?topList=striver-sde-sheet-problems)| [Solution](./Solutions/Day_30_ChildrenSumProperty.java) 

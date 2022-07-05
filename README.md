@@ -330,3 +330,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 147 | Binary Search Tree | [Pair Sum BST](https://www.codingninjas.com/codestudio/problems/pair-sum-in-bst_920493?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_31_PairSumBST.java)
 148 | Binary Search Tree | [BST Iterator](https://www.codingninjas.com/codestudio/problems/bst-iterator_1112601?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_31_BSTIterator.java)
+149 | Binary Search Tree | [Largest Bst Subtree](https://www.codingninjas.com/codestudio/problems/largest-bst-subtree_893103?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_31_LaregstBSTSubtree.java)

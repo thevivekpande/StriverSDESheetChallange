@@ -335,3 +335,10 @@ Sr. No. | Topics | Problems | Solutions
 151 | Binary Tree | [Flatten a binary tree into Doubly Linked List](https://www.codingninjas.com/codestudio/problems/convert-a-given-binary-tree-to-doubly-linked-list_893106?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_31_FlattenABinaryTreeToDLL.java) 
 152 | Heap/Self Balancing BST | [Median in a Stream](https://www.codingninjas.com/codestudio/problems/median-in-a-stream_975268?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_31_MedianInAStream.java) 
 153 | Heap/Self Balancing BST | [Kth Largest Element in a Stream](https://www.codingninjas.com/codestudio/problems/kthlargestnumber_800301?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_31_KthLargestElementInAStream.java)
+
+
+### Day 32
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+154 | HashMap | [Distinct element in every size k](https://www.codingninjas.com/codestudio/problems/count-distinct-element-in-every-k-size-window_920336?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_32_DistinctElementInEveryWindowOfSizeK.java)

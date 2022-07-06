@@ -342,3 +342,4 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 154 | HashMap | [Distinct element in every size k](https://www.codingninjas.com/codestudio/problems/count-distinct-element-in-every-k-size-window_920336?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_32_DistinctElementInEveryWindowOfSizeK.java)
+155 | Heap | [Kth largest Element in the unsorted array](https://www.codingninjas.com/codestudio/problems/kth-largest-element-in-the-unsorted-array_893030?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_32_KthLargestElement.java)

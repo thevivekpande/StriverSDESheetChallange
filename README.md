@@ -345,3 +345,9 @@ Sr. No. | Topics | Problems | Solutions
 155 | Heap | [Kth largest Element in the unsorted array](https://www.codingninjas.com/codestudio/problems/kth-largest-element-in-the-unsorted-array_893030?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_32_KthLargestElement.java)
 156 | DFS | [Flood Fill Algorithm](https://www.codingninjas.com/codestudio/problems/flood-fill-algorithm_1089687?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_32_FloodFillAlgorithm.java)
 157 | Graph | [Clone a graph](https://www.codingninjas.com/codestudio/problems/clone-graph_1103394?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_32_CloneAGraph.java)
+
+### Day 33
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+158 | Graph | [DFS Traversal](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_33_DFSTraversal.java)

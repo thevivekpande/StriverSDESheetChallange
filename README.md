@@ -353,5 +353,8 @@ Sr. No. | Topics | Problems | Solutions
 158 | Graph | [DFS Traversal](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_33_DFSTraversal.java)
 159 | Graph | [BFS Traversal](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_33_BFSTraversal.java)
 
+### Day 34
 
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
 160 | Graph | [Cycle Detection in Undirected Graph](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_CycleDetectionOfUndirectedGraph.java)

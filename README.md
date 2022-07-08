@@ -359,3 +359,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 160 | Graph | [Cycle Detection in Undirected Graph](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_CycleDetectionOfUndirectedGraph.java)
 161 | Graph | [Cycle Detection inDirected Graph](https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_1062626?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_CycleDetectionOfDirectedGraph.java)
+162 | Graph | [Topological Sort](https://www.codingninjas.com/codestudio/problems/topological-sort_982938?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_TopologicalSort.java)

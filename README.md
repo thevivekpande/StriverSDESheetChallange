@@ -369,4 +369,4 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 163 | DFS | [Number of Islands](https://www.codingninjas.com/codestudio/problems/find-number-of-islands_630512?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_35_NumberOfIslands.java)
-164 | Graph | [Bipartite Graph]() | [Solution](./Solutions/Day_35_BipartiteGraph.java)
+164 | Graph | [Bipartite Graph](https://www.codingninjas.com/codestudio/problems/check-graph-is-bipartite-or-not_920551?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_35_BipartiteGraph.java)

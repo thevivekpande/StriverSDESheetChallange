@@ -346,12 +346,14 @@ Sr. No. | Topics | Problems | Solutions
 156 | DFS | [Flood Fill Algorithm](https://www.codingninjas.com/codestudio/problems/flood-fill-algorithm_1089687?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_32_FloodFillAlgorithm.java)
 157 | Graph | [Clone a graph](https://www.codingninjas.com/codestudio/problems/clone-graph_1103394?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_32_CloneAGraph.java)
 
+
 ### Day 33
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 158 | Graph | [DFS Traversal](https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_33_DFSTraversal.java)
 159 | Graph | [BFS Traversal](https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_33_BFSTraversal.java)
+
 
 ### Day 34
 
@@ -360,3 +362,10 @@ Sr. No. | Topics | Problems | Solutions
 160 | Graph | [Cycle Detection in Undirected Graph](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_CycleDetectionOfUndirectedGraph.java)
 161 | Graph | [Cycle Detection inDirected Graph](https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_1062626?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_CycleDetectionOfDirectedGraph.java)
 162 | Graph | [Topological Sort](https://www.codingninjas.com/codestudio/problems/topological-sort_982938?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_34_TopologicalSort.java)
+
+
+### Day 35
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+163 | DFS | [Number of Islands](https://www.codingninjas.com/codestudio/problems/find-number-of-islands_630512?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_35_NumberOfIslands.java)

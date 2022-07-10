@@ -380,3 +380,4 @@ Sr. No. | Topics | Problems | Solutions
 166 | Graph | [Dijkstra's Shortest Path](https://www.codingninjas.com/codestudio/problems/dijkstra-s-shortest-path_920469?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_Dijkstra'sShortestPath.java)
 167 | Graph | [Bellman Ford Algorithm](https://www.codingninjas.com/codestudio/problems/bellmon-ford_2041977?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_BellmanFord.java)
 168 | Graph | [Flloyd Warshall Algorithm](https://www.codingninjas.com/codestudio/problems/flloyd-warshall_2041979?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_36_FlloydWarshall.java)
+169 | Graph | [Prim's Algorithm](https://www.codingninjas.com/codestudio/problems/prim-s-mst_1095633?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_Prims'sAlgorithm.java)

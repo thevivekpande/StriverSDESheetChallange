@@ -378,3 +378,4 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 165 | Graph | [Strongly Connected Components](https://www.codingninjas.com/codestudio/problems/strongly-connected-components-tarjan-s-algorithm_985311?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_36_StronglyConnectedComponents.java)
 166 | Graph | [Dijkstra's Shortest Path](https://www.codingninjas.com/codestudio/problems/dijkstra-s-shortest-path_920469?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_Dijkstra'sShortestPath.java)
+167 | Graph | [Bellman Ford Algorithm](https://www.codingninjas.com/codestudio/problems/bellmon-ford_2041977?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_BellmanFord.java)

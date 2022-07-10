@@ -370,3 +370,10 @@ Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 163 | DFS | [Number of Islands](https://www.codingninjas.com/codestudio/problems/find-number-of-islands_630512?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_35_NumberOfIslands.java)
 164 | Graph | [Bipartite Graph](https://www.codingninjas.com/codestudio/problems/check-graph-is-bipartite-or-not_920551?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_35_BipartiteGraph.java)
+
+
+### Day 36
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+165 | Graph | [Strongly Connected Components](https://www.codingninjas.com/codestudio/problems/strongly-connected-components-tarjan-s-algorithm_985311?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_36_StronglyConnectedComponents.java)

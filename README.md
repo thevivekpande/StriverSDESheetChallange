@@ -383,8 +383,9 @@ Sr. No. | Topics | Problems | Solutions
 169 | Graph | [Prim's Algorithm](https://www.codingninjas.com/codestudio/problems/prim-s-mst_1095633?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_Prims'sAlgorithm.java)
 
 
-### Day 36
+### Day 37
 
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 170 | Graph | [Kruskal's Algorithm](https://www.codingninjas.com/codestudio/problems/kruskal-s-minimum-spanning-tree-algorithm_1082553?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_Kruskal's Algorithm.java)
+171 | Dynamic Programming | [Maximum Product Subarray](https://www.codingninjas.com/codestudio/problems/maximum-product-subarray_1115474?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_MaximumProductSubArray.java)

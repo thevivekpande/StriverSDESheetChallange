@@ -393,3 +393,4 @@ Sr. No. | Topics | Problems | Solutions
 173 | Dynamic Programming | [Longest Common Subsequence](https://www.codingninjas.com/codestudio/problems/longest-common-subsequence_624879?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_LongestCommonSubsequence.java)
 174 | Dynamic Programming | [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_1072980?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_01Knapsack.java)
 175 | Dynamic Programming | [Edit Distance](https://www.codingninjas.com/codestudio/problems/edit-distance_630420?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_EditDistance.java)
+176 | Dynamic Programming | [Maximum sum increasing subsequence](https://www.codingninjas.com/codestudio/problems/ninja-at-the-gym_1112624?topList=striver-sde-sheet-problems) | [Solution](./Solutions/Day_37_MaximumSumIncreasingSubsequence.java)

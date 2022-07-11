@@ -381,3 +381,10 @@ Sr. No. | Topics | Problems | Solutions
 167 | Graph | [Bellman Ford Algorithm](https://www.codingninjas.com/codestudio/problems/bellmon-ford_2041977?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_BellmanFord.java)
 168 | Graph | [Flloyd Warshall Algorithm](https://www.codingninjas.com/codestudio/problems/flloyd-warshall_2041979?topList=striver-sde-sheet-problems&leftPanelTab=3) | [Solution](./Solutions/Day_36_FlloydWarshall.java)
 169 | Graph | [Prim's Algorithm](https://www.codingninjas.com/codestudio/problems/prim-s-mst_1095633?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_36_Prims'sAlgorithm.java)
+
+
+### Day 36
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+170 | Graph | [Kruskal's Algorithm](https://www.codingninjas.com/codestudio/problems/kruskal-s-minimum-spanning-tree-algorithm_1082553?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_Kruskal's Algorithm.java)

@@ -394,3 +394,17 @@ Sr. No. | Topics | Problems | Solutions
 174 | Dynamic Programming | [0 1 Knapsack](https://www.codingninjas.com/codestudio/problems/0-1-knapsack_1072980?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_01Knapsack.java)
 175 | Dynamic Programming | [Edit Distance](https://www.codingninjas.com/codestudio/problems/edit-distance_630420?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_37_EditDistance.java)
 176 | Dynamic Programming | [Maximum sum increasing subsequence](https://www.codingninjas.com/codestudio/problems/ninja-at-the-gym_1112624?topList=striver-sde-sheet-problems) | [Solution](./Solutions/Day_37_MaximumSumIncreasingSubsequence.java)
+
+
+### Day 38
+
+Sr. No. | Topics | Problems | Solutions
+------------- | ------------- | ------------- | -------------
+177 | Dynamic Programming | [Matrix Chain Multiplication](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_MatrixChainMultiplication.java)
+178 | Dynamic Programming | []() | []()
+179 | Dynamic Programming | []() | []()
+180 | Dynamic Programming | []() | []()
+181 | Dynamic Programming | []() | []()
+182 | Dynamic Programming | []() | []()
+183 | Dynamic Programming | []() | []()
+184 | Dynamic Programming | []() | []()

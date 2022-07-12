@@ -404,7 +404,7 @@ Sr. No. | Topics | Problems | Solutions
 178 | Dynamic Programming | [Minimum Path Sum](https://www.codingninjas.com/codestudio/problems/minimum-path-sum_985349?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_MinimumPathSum.java)
 179 | Dynamic Programming | [Number of Ways to make coin Change](https://www.codingninjas.com/codestudio/problems/ways-to-make-coin-change_630471?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_WaysToMakeCoinChange.java)
 180 | Dynamic Programming | [Subset Sum Equals To K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_SubsetSumEqualsToK.java)
-181 | Dynamic Programming | []() | []()
+181 | Dynamic Programming | [Rod Cutting Problem](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_RodCuttingProblem.java)
 182 | Dynamic Programming | []() | []()
 183 | Dynamic Programming | []() | []()
 184 | Dynamic Programming | []() | []()

@@ -407,4 +407,4 @@ Sr. No. | Topics | Problems | Solutions
 181 | Dynamic Programming | [Rod Cutting Problem](https://www.codingninjas.com/codestudio/problems/rod-cutting-problem_800284?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_RodCuttingProblem.java)
 182 | Dynamic Programming | [Egg Dropping Problem](https://www.codingninjas.com/codestudio/problems/cut-logs_982770?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_cutLogs.java)
 183 | Dynamic Programming | [Word Break](https://www.codingninjas.com/codestudio/problems/word-break_1094901?topList=striver-sde-sheet-problems&leftPanelTab=0) | [Solution](./Solutions/Day_38_WodBreak.java)
-184 | Dynamic Programming | []() | []()
+184 | Dynamic Programming | [Palindrome Partitioning](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_873266?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_PalindromePartitioning.java)

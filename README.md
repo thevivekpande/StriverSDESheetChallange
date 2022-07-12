@@ -401,9 +401,9 @@ Sr. No. | Topics | Problems | Solutions
 Sr. No. | Topics | Problems | Solutions
 ------------- | ------------- | ------------- | -------------
 177 | Dynamic Programming | [Matrix Chain Multiplication](https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_MatrixChainMultiplication.java)
-178 | Dynamic Programming | []() | []()
-179 | Dynamic Programming | []() | []()
-180 | Dynamic Programming | []() | []()
+178 | Dynamic Programming | [Minimum Path Sum](https://www.codingninjas.com/codestudio/problems/minimum-path-sum_985349?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_MinimumPathSum.java)
+179 | Dynamic Programming | [Number of Ways to make coin Change](https://www.codingninjas.com/codestudio/problems/ways-to-make-coin-change_630471?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_WaysToMakeCoinChange.java)
+180 | Dynamic Programming | [Subset Sum Equals To K](https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954?topList=striver-sde-sheet-problems&leftPanelTab=1) | [Solution](./Solutions/Day_38_SubsetSumEqualsToK.java)
 181 | Dynamic Programming | []() | []()
 182 | Dynamic Programming | []() | []()
 183 | Dynamic Programming | []() | []()

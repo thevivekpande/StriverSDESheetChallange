@@ -4,7 +4,7 @@ class Pair{
     int min;
     Pair(int x, int y){
         num=x;
-        y=min;
+        min=y;
     }
 } 
 
@@ -23,7 +23,7 @@ class MinStack {
         if(minStack.isEmpty())
             min=num;
         else 
-            min=Math.min(min, minStack.min);
+            min=Math.min(min, minStack.peek().min);
         minStack.push(new Pair(num, min));
     }
 
